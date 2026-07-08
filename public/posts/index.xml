@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</title>
+    <link>https://oyxo.com/posts/</link>
+    <description>Recent content in Posts on OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</description>
+    <image>
+      <title>OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</title>
+      <url>https://oyxo.com/images/og-image.png</url>
+      <link>https://oyxo.com/images/og-image.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 07 Jul 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://oyxo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026上半年音响行业回顾：AI音频、空间音频和国产HiFi崛起</title>
+      <link>https://oyxo.com/posts/hi-fi-industry-review-2026-first-half/</link>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0800</pubDate>
+      <guid>https://oyxo.com/posts/hi-fi-industry-review-2026-first-half/</guid>
+      <description>2026年上半年的音响行业热闹非凡，AI与音频的深度融合、空间音频的普及化以及国产HiFi品牌的加速崛起成为三大主旋律。</description>
+    </item>
+    <item>
+      <title>声学基础科普：看懂频响曲线、阻抗和灵敏度</title>
+      <link>https://oyxo.com/posts/audio-basics-frequency-impedance-sensitivity/</link>
+      <pubDate>Tue, 07 Jul 2026 11:00:00 +0800</pubDate>
+      <guid>https://oyxo.com/posts/audio-basics-frequency-impedance-sensitivity/</guid>
+      <description>用通俗易懂的方式讲解频响曲线、阻抗、灵敏度等耳机/音箱核心参数，让你不再被参数表吓到。</description>
+    </item>
+    <item>
+      <title>新手入门指南：如何搭建你的第一套桌面HiFi系统</title>
+      <link>https://oyxo.com/posts/desktop-hifi-system-beginners-guide/</link>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>https://oyxo.com/posts/desktop-hifi-system-beginners-guide/</guid>
+      <description>从零开始，手把手教你搭建一套桌面HiFi系统，涵盖音源、解码、耳放、耳机/音箱的搭配思路。</description>
+    </item>
+    <item>
+      <title>2024年入门HiFi耳机推荐：从千元内到五千元档位横评</title>
+      <link>https://oyxo.com/posts/entry-level-hifi-headphones-guide-2024/</link>
+      <pubDate>Tue, 07 Jul 2026 09:00:00 +0800</pubDate>
+      <guid>https://oyxo.com/posts/entry-level-hifi-headphones-guide-2024/</guid>
+      <description>从千元内到五千元档位，精选 8 款入门 HiFi 耳机进行横向对比评测，帮你找到第一副真正的 HiFi 耳机。</description>
+    </item>
+  </channel>
+</rss>

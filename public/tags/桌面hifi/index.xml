@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>桌面HiFi on OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</title>
+    <link>https://oyxo.com/tags/%E6%A1%8C%E9%9D%A2hifi/</link>
+    <description>Recent content in 桌面HiFi on OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</description>
+    <image>
+      <title>OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</title>
+      <url>https://oyxo.com/images/og-image.png</url>
+      <link>https://oyxo.com/images/og-image.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 07 Jul 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://oyxo.com/tags/%E6%A1%8C%E9%9D%A2hifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新手入门指南：如何搭建你的第一套桌面HiFi系统</title>
+      <link>https://oyxo.com/posts/desktop-hifi-system-beginners-guide/</link>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0800</pubDate>
+      <guid>https://oyxo.com/posts/desktop-hifi-system-beginners-guide/</guid>
+      <description>从零开始，手把手教你搭建一套桌面HiFi系统，涵盖音源、解码、耳放、耳机/音箱的搭配思路。</description>
+    </item>
+  </channel>
+</rss>

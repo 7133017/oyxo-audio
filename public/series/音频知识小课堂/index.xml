@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>音频知识小课堂 on OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</title>
+    <link>https://oyxo.com/series/%E9%9F%B3%E9%A2%91%E7%9F%A5%E8%AF%86%E5%B0%8F%E8%AF%BE%E5%A0%82/</link>
+    <description>Recent content in 音频知识小课堂 on OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</description>
+    <image>
+      <title>OYXO 音响发烧站 | 耳机·音箱·HiFi器材评测</title>
+      <url>https://oyxo.com/images/og-image.png</url>
+      <link>https://oyxo.com/images/og-image.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 07 Jul 2026 11:00:00 +0800</lastBuildDate>
+    <atom:link href="https://oyxo.com/series/%E9%9F%B3%E9%A2%91%E7%9F%A5%E8%AF%86%E5%B0%8F%E8%AF%BE%E5%A0%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>声学基础科普：看懂频响曲线、阻抗和灵敏度</title>
+      <link>https://oyxo.com/posts/audio-basics-frequency-impedance-sensitivity/</link>
+      <pubDate>Tue, 07 Jul 2026 11:00:00 +0800</pubDate>
+      <guid>https://oyxo.com/posts/audio-basics-frequency-impedance-sensitivity/</guid>
+      <description>用通俗易懂的方式讲解频响曲线、阻抗、灵敏度等耳机/音箱核心参数，让你不再被参数表吓到。</description>
+    </item>
+  </channel>
+</rss>
